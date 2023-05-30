@@ -4,6 +4,6 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек|
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/aq2003/Portfolio/tree/main/) | На основе данных геологической разведки выбрать район добычи нефти | Pandas, Scikit-learn, Bootstrap|
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Классификация текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев, их классификация на токсичность | python, pandas, numpy, tf-idf, sklearn, CatBoost |
+| 1.   | [Исследование технологического процесса очистки золота](https://github.com/aq2003/Portfolio/tree/main/) | Прогнозирование концентрации золота при проведении процесса очистки золота | Python, Pandas, Matplotlib, NumPy, Scikit-learn |
+| 2.   | [Построение модели определения стоимости автомобиля](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Разработка системы рекомендации стоимости автомобиля на основе его описания | python, pandas, numpy, LightGBM, sklearn, CatBoost, matplotlib |
+| 3.   | [Классификация текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев и их классификация на токсичность для модерации | python, pandas, numpy, tf-idf, sklearn, CatBoost |
