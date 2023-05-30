@@ -1,9 +1,9 @@
 # Portfolio
 
-## This repository is my portfolio for ML and DS.
 
-| #    | Наименование проекта                | Описание                                                     | Стек|
+
+| #    | Project name                | Description                                                     | Stack|
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Исследование технологического процесса очистки золота](https://github.com/aq2003/Portfolio/tree/main/) | Прогнозирование концентрации золота при проведении процесса очистки золота | Python, Pandas, Matplotlib, NumPy, Scikit-learn |
-| 2.   | [Построение модели определения стоимости автомобиля](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Разработка системы рекомендации стоимости автомобиля на основе его описания | python, pandas, numpy, LightGBM, sklearn, CatBoost, matplotlib |
-| 3.   | [Классификация текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев и их классификация на токсичность для модерации | python, pandas, numpy, tf-idf, sklearn, CatBoost |
+| 1.   | [Study of the technological process of gold purification](https://github.com/aq2003/Portfolio/tree/main/) | Preparation of a ML model to predict the processing efficiency of gold-bearing ore based on previous operations in order to optimize production | Python, Pandas, Matplotlib, NumPy, Scikit-learn |
+| 2.   | [Building a model to determine the price of a car](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Predicting car prices using LGBM and CatBoost models to attract new sellers to the car market place | python, pandas, numpy, LightGBM, sklearn, CatBoost, matplotlib |
+| 3.   | [Classification of text data](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Classification of comments using the tf-idf vectorizer to identify toxic comments and moderate them | python, pandas, numpy, tf-idf, sklearn, CatBoost |
