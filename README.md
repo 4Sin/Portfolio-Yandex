@@ -1,5 +1,6 @@
 # Portfolio
-## This repository contains several of my ML & DS training projects.
+
+This repository contains several of my ML & DS training projects.
 
 | #    | Project name                | Description                                                     | Stack|
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
