@@ -1,5 +1,5 @@
 # Portfolio
-<font size="20"># This repository contains several of my ML & DS training projects.</font>
+# This repository contains several of my ML & DS training projects.
 
 | #    | Project name                | Description                                                     | Stack|
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
