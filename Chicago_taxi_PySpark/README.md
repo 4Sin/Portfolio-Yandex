@@ -27,8 +27,8 @@
 ### Навыки и инструменты
 ------------------
     * Python
-    * Seaborn
     * PySpark
+    * Seaborn
     * FB Prophet
 ------------------    
 
