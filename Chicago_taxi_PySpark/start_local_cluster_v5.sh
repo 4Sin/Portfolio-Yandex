@@ -6,7 +6,7 @@
 PATH_TO_PROJECT_DIR="/mnt/d/programs/projects/chicago"
 
 MEMORY_PER_WORKER='3g'
-CORES_PER_WORKER=3
+CORES_PER_WORKER=2
 
 # Creates local docker network and names it as "spark_network"
 docker network create spark_network
